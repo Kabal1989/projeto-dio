@@ -1,8 +1,10 @@
-# **Desafio <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git-icon"> & GitHub**
+# **Desafio <img align="center" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git-icon"> & GitHub**
 
 <center>
 
-## <center>Projeto <img height="30" src="https://github.com/Kabal1989/projeto-dio/blob/main/logo-dio.png?raw=true" alt="logo-dio">:space_invader: :computer:
+## <center>Projeto <img align="center" height="30" src="https://github.com/Kabal1989/projeto-dio/blob/main/logo-dio.png?raw=true" alt="logo-dio">         
+  
+  :space_invader: :computer:
 
 </center>
 
@@ -16,8 +18,8 @@
 
 <br>
 
-Este arquivo foi editado pelo <img height="30" src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/64/undefined/external-atom-physics-icongeek26-outline-gradient-icongeek26.png" alt="atom-icon"> **Atom**, um software editor de texto open source desenvolvido pelo
-<img height="30" src="https://img.icons8.com/nolan/64/github.png" alt="github-icon"> **GitHub** para as plataformas:
+Este arquivo foi editado pelo <img align="center" height="30" src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/64/undefined/external-atom-physics-icongeek26-outline-gradient-icongeek26.png" alt="atom-icon"> **Atom**, um software editor de texto open source desenvolvido pelo
+<img align="center" height="30" src="https://img.icons8.com/nolan/64/github.png" alt="github-icon"> **GitHub** para as plataformas:
 
 <center>
 
